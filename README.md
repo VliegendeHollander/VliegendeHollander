@@ -2,7 +2,7 @@
 
 ###### <p align="center"> __I'm a junior full-stack web developper who's looking for new opportunities. <br />:computer: I develop web applications, :art: design websites, and :lock: i am interested in cybersecurity.__</p >
 ###### <p align="center"></p>
-```typescript
+```python
 from life import Creativity
 
 class Life(Creativity):
