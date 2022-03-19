@@ -11,9 +11,9 @@ class Life(Creativity):
         self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "Flutter 📚"
-        self.currently_working_on = "MERN Stack 🌱"
-        self.excited_for = "Cybersecurity 🌎"
+        self.currently_learning = "📚 Flutter"
+        self.currently_working_on = "💻 MERN Stack"
+        self.excited_for = "🔒 Cybersecurity"
  
 if '__profil__' == '__interesting__':
     contact.me()
