@@ -3,21 +3,20 @@
 ###### <p align="center"> __I'm a junior full-stack web developper who's looking for new opportunities. <br />:computer: I develop web applications, :art: design websites, and :lock: i am interested in cybersecurity.__</p >
 ###### <p align="center"></p>
 ```typescript
-import { UserData } from "./Life";
+from life import Creativity
 
-class Greeter {
-  greeting: string;
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "___"
+        self.open_for_opportunity = True
+
+    def current_projects(self):
+        self.currently_learning = "Flutter 📚"
+        self.currently_working_on = "MERN Stack 🌱"
+        self.excited_for = "Cybersecurity 🌎"
  
-  constructor(message: string) {
-    this.greeting = message;
-  }
- 
-  greet() {
-    return "Hello, " + this.greeting;
-  }
-}
- 
-let greeter = new Greeter("world");
+if '__profil__' == '__interesting__':
+    contact.me()
 ```
 
 
