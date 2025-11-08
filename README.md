@@ -49,9 +49,6 @@ if '__profil__' == '__interesting__':
 
 📫 Feel free to contact !
 
-<a href='https://www.linkedin.com/in/florianhooghordel/'>![This is an image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
 <!---
 VliegendeHollander/VliegendeHollander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
